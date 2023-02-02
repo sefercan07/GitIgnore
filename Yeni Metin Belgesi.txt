@@ -36,3 +36,4 @@ tekrar eklemeden sonra sadece push yaptıgım da nereye gidiyor ?
 
 
 brach değişimi bakalım
+Sefer de branch değişimi izleyelim
