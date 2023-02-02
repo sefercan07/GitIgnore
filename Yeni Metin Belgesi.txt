@@ -34,6 +34,12 @@ analamdıhım için tekrar repo actım ve deniyorum(deneme benim originim)
 tekrar eklemeden sonra sadece push yaptıgım da nereye gidiyor ?
 
 
+
 şimfi master da sacma sapan şeyler yapalım
 brach değişimi bakalım
 masterda sacmaladıjm
+
+
+brach değişimi bakalım
+Sefer de branch değişimi izleyelim
+
