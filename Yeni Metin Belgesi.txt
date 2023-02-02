@@ -32,3 +32,7 @@ tekrar denemelre devam ediyorum20
 analamdıhım için tekrar repo actım ve deniyorum(deneme benim originim)
 
 tekrar eklemeden sonra sadece push yaptıgım da nereye gidiyor ?
+
+
+
+brach değişimi bakalım
